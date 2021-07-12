@@ -9,7 +9,7 @@ I'm a self-taught Data Analyst and I am on my journey to becoming a Data Scienti
 
 ### Projects I am most proud of:
 1. PCOS Prediction Model 
-2. House Price Predictior
+2. Jamaican House Price Predictions
 3. COVID Cases across Canada
 
 ### I am currently learning:
