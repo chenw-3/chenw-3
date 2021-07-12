@@ -1,7 +1,7 @@
 # Hi! Get comfy and learn a little about me :point_down:
 
 ### Who am I?
-I'm a self-taught Data Analyst and I am on my journey to becoming a Data Scientist. Born and raised in Kingston Jamaica, I graduated from Minot State University with a Bachelor's in Biology in 2019. After graduation, I decided to start learning how to code as a hobby to keep my mind sharp. After a few months of learning I realized that I really enjoyed experimenting with code to make things, so I decided to enroll in Udacity's Data Analyst program, which introduced me to the world of Data Science. Since then I have secured an internship at a startup, completed some projects and now I am seeking full-time Data Analyst roles. My skills are:
+I'm a self-taught Data Analyst and I am on my journey to becoming a Data Scientist. Born and raised in Kingston Jamaica, I graduated from Minot State University with a Bachelor's in Biology in 2019. After graduation, I decided to start learning how to code as a hobby to keep my mind sharp. After a few months of learning I realized that I really enjoyed experimenting with code to make things, so I decided to enroll in Udacity's Data Analyst program, which introduced me to the world of Data Science. Since then, I have secured an internship at a startup, completed some projects and now I am seeking full-time Data Analyst roles. My skills are:
   - Python :snake: (NumPy, pandas, scikit learn, matplotlib, seaborn)
   - MySQL
   - Tableau
